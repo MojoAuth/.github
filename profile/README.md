@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![MojoAuth Logo](https://logo.clearbit.com/mojoauth.com)
+
 **MojoAuth: Your Authentication Swiss Army Knife**
 
 Tired of outdated, insecure logins?
